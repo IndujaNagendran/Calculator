@@ -13,7 +13,7 @@ import android.widget.TextView;
 public class MainActivity extends ActionBarActivity {
 	TextView text;
 	EditText ed;
-	Button zero;
+	Button zero;      
 	Button one;
 	Button two;
 	Button three,four,five,six;
