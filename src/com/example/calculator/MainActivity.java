@@ -19,8 +19,7 @@ public class MainActivity extends ActionBarActivity {
 	Button three,four,five,six;
 	Button seven,eight,nine,equal;
 	Button add,sub,mul,div,del,dot;
-	float ValueOne , ValueTwo ;
-	 
+	float ValueOne , ValueTwo ;	 
     boolean mAdd , mSub ,mMul ,mDiv ;
  
     @Override
